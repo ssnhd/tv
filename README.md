@@ -11,8 +11,10 @@ App Store：https://apps.apple.com/us/app/aptv/id1630403500
 ![](https://i.imgur.com/VTenBWP.png)
 
 ## 二、央视卫视直播源
-1. IPTV 直播源（清晰度更好）：https://github.com/Ftindy/IPTV-URL
-2. IPTV 直播源：https://github.com/joevess/IPTV
+直播源汇总：https://github.com/Ftindy/IPTV-URL
+
+推荐 APTV（央视卫视 1080P）：https://mirror.ghproxy.com/https://raw.githubusercontent.com/Kimentanm/aptv/master/m3u/iptv.m3u
+
 
 ## 三、Simple Live
 斗鱼、虎牙、B 站、抖音直播汇总。目前 tvOS 版是测试版，可以在作者 [Telegram](https://t.me/simplelivetvos) 群内申请。
