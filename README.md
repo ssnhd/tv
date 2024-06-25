@@ -6,21 +6,25 @@ Apple TV 系统流畅，界面美观，不仅没有内置广告，甚至在安�
 ## 一、APTV
 看央视、卫视必备，搭配下面 IPTV 直播源使用。
 
+App Store：https://apps.apple.com/us/app/aptv/id1630403500
+
 ![](https://i.imgur.com/VTenBWP.png)
 
-## 二、直播源
+## 二、央视卫视直播源
 1. IPTV 直播源（清晰度更好）：https://github.com/Ftindy/IPTV-URL
 2. IPTV 直播源：https://github.com/joevess/IPTV
 
 ## 三、Simple Live
-斗鱼、虎牙、B 站、抖音直播汇总。
+斗鱼、虎牙、B 站、抖音直播汇总。目前 tvOS 版是测试版，可以在作者 [Telegram](https://t.me/simplelivetvos) 群内申请。
 
 https://github.com/xiaoyaocz/dart_simple_live
 
 ![](https://i.imgur.com/7lYZpgg.png)
 
 ## 四、Cheers
-第三方 B 站！用户称之为比官方更好的 app，首次打开 app 需在 “Remote” → “Video Adress” 里输入 `cheers://ganbei!`
+第三方 B 站！用户称之为比官方更好的 app。首次打开 app 需在 “Remote” → “Video Adress” 里输入 `cheers://ganbei!`
+
+App Store：https://apps.apple.com/us/app/cheers-danmu-player/id1643375332
 
 ![](https://i.imgur.com/soCN3cN.png)
 ![](https://i.imgur.com/raSxcLS.jpg)
