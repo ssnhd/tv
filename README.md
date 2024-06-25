@@ -20,7 +20,7 @@ https://github.com/xiaoyaocz/dart_simple_live
 ![](https://i.imgur.com/7lYZpgg.png)
 
 ## 四、Cheers
-第三方 B 站，强烈推荐！首次使用需在 “Remote” → “Video Adress” 里输入 `cheers://ganbei!`
+第三方 B 站！用户称之为比官方更好的 app，首次打开 app 需在 “Remote” → “Video Adress” 里输入 `cheers://ganbei!`
 
 ![](https://i.imgur.com/soCN3cN.png)
 ![](https://i.imgur.com/raSxcLS.jpg)
@@ -43,7 +43,7 @@ https://github.com/xiaoyaocz/dart_simple_live
 ## 八、网络工具
 可以单独安装客户端，也可以使用软路由。
 1. [Shadowrocket](https://apps.apple.com/us/app/shadowrocket/id932747118)
-2. [Quantumult X](https://apps.apple.com/jp/app/quantumult-x/id1443988620?l=en-US)：
+2. [Quantumult X](https://apps.apple.com/jp/app/quantumult-x/id1443988620?l=en-US)
 3. [Surge](https://kb.nssurge.com/surge-knowledge-base/guidelines/tvos)
 
 
