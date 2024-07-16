@@ -1,8 +1,5 @@
 # Apple TV 常用软件汇总
 
-Apple TV 系统流畅，界面美观，不仅没有内置广告，甚至在安装第三方应用时也很少见到广告，使普通电视大大提升了用户的幸福感。
-
-
 ## 一、APTV
 看央视、卫视必备，搭配下面 IPTV 直播源使用。
 
@@ -10,10 +7,10 @@ App Store：https://apps.apple.com/us/app/aptv/id1630403500
 
 ![](https://i.imgur.com/VTenBWP.png)
 
-## 二、央视卫视直播源
-直播源汇总：https://github.com/Ftindy/IPTV-URL
+## 二、IPTV 直播源
+推荐 APTV（央视卫视 1080P，支持 IPv4、IPv6）：https://mirror.ghproxy.com/https://raw.githubusercontent.com/Kimentanm/aptv/master/m3u/iptv.m3u
 
-推荐 APTV（央视卫视 1080P）：https://mirror.ghproxy.com/https://raw.githubusercontent.com/Kimentanm/aptv/master/m3u/iptv.m3u
+更多直播源汇总：https://github.com/Ftindy/IPTV-URL
 
 
 ## 三、Simple Live
