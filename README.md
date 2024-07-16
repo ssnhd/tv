@@ -20,12 +20,13 @@
 看央视、卫视必备 app，搭配下面 IPTV 直播源使用。
 
 App Store：https://apps.apple.com/us/app/aptv/id1630403500
-![](https://i.imgur.com/VTenBWP.png)
+
 
 ## 二、IPTV 直播源
-推荐这个，非常稳定且支持央视卫视 1080P、IPv4 和 IPv6：https://mirror.ghproxy.com/https://raw.githubusercontent.com/Kimentanm/aptv/master/m3u/iptv.m3u
+【推荐】央视卫视 1080P，稳定且支持 IPv4 和 IPv6：https://mirror.ghproxy.com/https://raw.githubusercontent.com/Kimentanm/aptv/master/m3u/iptv.m3u
 
-更多直播源汇总：https://github.com/Ftindy/IPTV-URL
+更多直播源：https://github.com/Ftindy/IPTV-URL
+![](https://i.imgur.com/VTenBWP.png)
 
 
 ## 三、Simple Live
