@@ -20,7 +20,7 @@ App Store：https://apps.apple.com/us/app/aptv/id1630403500
 ## 三、Simple Live
 斗鱼、虎牙、B 站、抖音等平台直播。
 
-[https://github.com/xiaoyaocz/dart_simple_live](https://github.com/pcccccc/SimpleLiveTVOS)
+https://github.com/pcccccc/SimpleLiveTVOS
 ![](https://s2.loli.net/2024/07/16/v9FczKShdAPk7YM.jpg)
 
 ## 四、Cheers
