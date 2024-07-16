@@ -2,8 +2,19 @@
 
 ## 解决与国区 iCloud 同步
 国区 Apple ID 登录 Apple TV 商店里没有 app，所以你需要有[外区 Apple ID](https://t.me/GVStore)（例如美区）。
-
 部分用户主力是国区 Apple ID 且 app 数据都在国区 iCloud，那么登录 Apple TV 时使用国区 Apple ID，然后在设置里将商店登录外区 Apple ID，app 即可与国区 iCloud 同步。
+
+## Apple TV 提升使用体验设置
+1. 【像 iPhone 一样切换后台】设置 → 遥控器与设备 → 电视按钮 → 设置为“主屏幕”，按一下回到桌面，双击切换后台。
+2. 【铺满屏幕】设置 → 视频和音频 → 轻点放大视频：某些影视剧上下黑边较小，双击即可铺满屏幕。
+3. 【色彩校准】设置 → 视频和音频 → 色彩平衡：使用 iPhone 校准电视色彩（老款电视的福音）。
+4. 【遥控器控制电视】设置 → 遥控器与设备 → 使用遥控器来打开电视机和音量控制（老款电视可能不支持开关电视）。
+
+## 网络工具
+除了安装以下客户端外，更推荐软路由，这样家里所有设备均可连接。
+- [Shadowrocket](https://apps.apple.com/us/app/shadowrocket/id932747118)
+- [Quantumult X](https://apps.apple.com/jp/app/quantumult-x/id1443988620?l=en-US)
+- [Surge](https://kb.nssurge.com/surge-knowledge-base/guidelines/tvos)
 
 ## 一、APTV
 看央视、卫视必备 app，搭配下面 IPTV 直播源使用。
@@ -42,15 +53,4 @@ App Store：https://apps.apple.com/us/app/cheers-danmu-player/id1643375332
 全球最大的视频搜索和分享平台。
 ![](https://i.imgur.com/qEbDIgC.png)
 
-## 八、网络工具
-可以单独安装客户端，也可以使用软路由。
-1. [Shadowrocket](https://apps.apple.com/us/app/shadowrocket/id932747118)
-2. [Quantumult X](https://apps.apple.com/jp/app/quantumult-x/id1443988620?l=en-US)
-3. [Surge](https://kb.nssurge.com/surge-knowledge-base/guidelines/tvos)
 
-
-## Apple TV 提升使用体验设置
-1. 【像 iPhone 一样切换后台】设置 → 遥控器与设备 → 电视按钮 → 设置为“主屏幕”，这样按一下回到桌面，按两下切换到后台。
-2. 【铺满屏幕】设置 → 视频和音频 → 轻点放大视频：某些影视剧上下黑边较小，双击遥控器即可使铺满屏幕。
-3. 【色彩校准】设置 → 视频和音频 → 色彩平衡：可以使用 iPhone 校准电视色彩（老款电视的福音）。
-4. 【遥控器控制电视】设置 → 遥控器与设备 → 使用遥控器来打开电视机和音量控制（老款电视可能不支持）。
