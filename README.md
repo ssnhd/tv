@@ -1,5 +1,8 @@
 # Apple TV 常用软件汇总
 
+## 解决与国区 iCloud 同步
+登录 Apple TV 时使用国区 Apple ID，然后在设置里将商店登录外区（例如美区） Apple ID 即可。
+
 ## 一、APTV
 看央视、卫视必备 app，搭配下面 IPTV 直播源使用。
 
