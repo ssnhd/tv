@@ -18,7 +18,7 @@ App Store：https://apps.apple.com/us/app/aptv/id1630403500
 
 
 ## 三、Simple Live
-斗鱼、虎牙、B 站、抖音直播汇总。目前是测试版，可以在作者 [Telegram](https://t.me/simplelivetvos) 群内申请。
+斗鱼、虎牙、B 站、抖音等平台直播。
 
 [https://github.com/xiaoyaocz/dart_simple_live](https://github.com/pcccccc/SimpleLiveTVOS)
 ![](https://s2.loli.net/2024/07/16/v9FczKShdAPk7YM.jpg)
