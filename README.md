@@ -1,7 +1,7 @@
 # Apple TV 常用软件汇总
 
 ## 解决与国区 iCloud 同步
-国区 Apple ID 登录 Apple TV 商店里没有 app，所以你需要有外区 Apple ID（例如美区）。
+国区 Apple ID 登录 Apple TV 商店里没有 app，所以你需要有[外区 Apple ID](https://t.me/GVStore)（例如美区）。
 
 部分用户主力是国区 Apple ID 且 app 数据都在国区 iCloud，那么登录 Apple TV 时使用国区 Apple ID，然后在设置里将商店登录外区 Apple ID，app 即可与国区 iCloud 同步。
 
