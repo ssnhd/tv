@@ -21,7 +21,7 @@ App Store：https://apps.apple.com/us/app/aptv/id1630403500
 斗鱼、虎牙、B 站、抖音直播汇总。目前是测试版，可以在作者 [Telegram](https://t.me/simplelivetvos) 群内申请。
 
 [https://github.com/xiaoyaocz/dart_simple_live](https://github.com/pcccccc/SimpleLiveTVOS)
-![](https://i.imgur.com/7lYZpgg.png)
+![](https://s2.loli.net/2024/07/16/v9FczKShdAPk7YM.jpg)
 
 ## 四、Cheers
 哔哩哔哩（用户称之为比官方更好的 app）。首次打开需在 “Remote” → “Video Adress” 里输入 `cheers://ganbei!`
